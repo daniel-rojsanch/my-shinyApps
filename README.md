@@ -7,7 +7,7 @@
 ![fmsb](https://img.shields.io/badge/r-fmsb-green)
 ![wordclud](https://img.shields.io/badge/r-wordcloud-yellow)
 
-**My ShinyApps**
+📌 **My ShinyApps**
 
 |           Proyecto           |          Descripción            |
 |------------------------------|---------------------------------|
