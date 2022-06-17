@@ -1,13 +1,12 @@
-# My-shinyApps
+# My ShinyApps
 
-## Library
+## Packages
 
-![shiny](https://img.shields.io/badge/r-shiny-orange)
-![ggplot2](https://img.shields.io/badge/r-ggplot2-blue)
-![fmsb](https://img.shields.io/badge/r-fmsb-green)
-![wordclud](https://img.shields.io/badge/r-wordcloud-yellow)
+```r
+install.packages(c("shiny", "fmsb", "dplyr","ggplot2"))
+```
 
-📌 **My ShinyApps**
+📌 **Top ShinyApps**
 
 |     |           Proyecto           |          Descripción            |
 |-----|------------------------------|---------------------------------|
@@ -19,11 +18,9 @@
 | 👜 | Portafolio de markowitz       | En proceso   |
 
 
-## cheat sheet
-
-
-
 ## Recursos
 
 - [Mastering Shiny](https://mastering-shiny.org/)
 - [R gallery](https://r-graph-gallery.com/)
+
+### :panda_face: cheat sheet
