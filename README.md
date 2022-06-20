@@ -10,7 +10,7 @@ install.packages(c("shiny", "fmsb", "dplyr","ggplot2"))
 
 |     |           Proyecto           |          Descripción            |
 |-----|------------------------------|---------------------------------|
-| 🎮 | [Radar Pokemon](https://daniel-rojsanch.shinyapps.io/radar_pokemon)| Comparar por medio de un grafico de radar las valores de los pokemon: Salud, Ataque, Defensa, Velociadad |
+| 🎮 | [Radar Pokemon](https://daniel-rojsanch.shinyapps.io/radar_pokemon)| Comparar por medio de un grafico de [radar](https://r-graph-gallery.com/spider-or-radar-chart.html) las valores de los pokemon: Salud, Ataque, Defensa, Velociadad |
 | 🎸 | Spotify                       | En Proceso     |
 | 💣 | Covid en México               |  En proceso |
 | 📺 | Netflix                       |  En proceso |
